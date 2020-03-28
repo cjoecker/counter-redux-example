@@ -13,7 +13,7 @@ export const Counter_Reducer: Reducer<CounterState, DispatchAction> = (state = n
                 ...state,
                 counterNumber: state.counterNumber + 1,
             };
-        case CounterActionTypes.RestCounter:
+        case CounterActionTypes.SubtractCounter:
             return {
                 ...state,
                 counterNumber: state.counterNumber - 1,

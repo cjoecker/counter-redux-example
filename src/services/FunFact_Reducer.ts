@@ -1,8 +1,6 @@
 import {Reducer} from "redux";
 import {DispatchAction} from "./store";
 import {FunFactActionTypes} from "./FunFact_Actions";
-import {CounterActionTypes} from "./Counter_Actions";
-import {CounterState} from "./Counter_Reducer";
 
 export class FunFactState {
     funFact: string = "";

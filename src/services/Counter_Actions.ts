@@ -1,4 +1,4 @@
 export enum CounterActionTypes {
 	SumCounter = "SumCounter",
-	RestCounter = "RestCounter",
+	SubtractCounter = "SubtractCounter",
 }

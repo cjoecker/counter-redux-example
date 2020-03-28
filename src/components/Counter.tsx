@@ -19,7 +19,7 @@ function Counter() {
             &nbsp;
             <button
                 onClick={(e) => {
-                    dispatch({type: CounterActionTypes.RestCounter})
+                    dispatch({type: CounterActionTypes.SubtractCounter})
                 }}>
                 Sum - 1
             </button>
