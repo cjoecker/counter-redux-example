@@ -4,6 +4,6 @@ After a lot of research and refactoring, I manage to reduce a lot of verbose in 
 I couldn't find a recipe online for Redux, Thunk, Typescript and Hooks. 
 Hence, I want to share what I did.
 
-![Farmers Market Finder Demo](AppScrenshot.gif)
+![App Demo](AppScrenshot.gif)
 
-For explanation, see [http://localhost:3000](http://localhost:3000) 
+For explanation, check my [Medium story](https://medium.com/@christianjocker/recipe-for-redux-with-typescript-thunk-and-hooks-f16bd7e845fe) 
