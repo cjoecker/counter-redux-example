@@ -8,4 +8,4 @@ Hence, I want to share what I did.
 
 For explanation, check my [Medium story](https://medium.com/@christianjocker/recipe-for-redux-with-typescript-thunk-and-hooks-f16bd7e845fe) or [YouTube Video](https://www.youtube.com/watch?v=DAv_GWLRlgg)
 
-Checkout an even better verion with Redux toolkit [here](https://github.com/cjoecker/counter-reduxtoolkit-example)
+### 😯Checkout an even better verion with Redux toolkit [here](https://github.com/cjoecker/counter-reduxtoolkit-example)
